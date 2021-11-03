@@ -14,3 +14,4 @@ Awesome Archive of Assets on Substrate Framework
 
 ## NFT
 - https://github.com/anjumkaiser/substrate-ink-erc721-smartcontract
+- https://github.com/shawntabrizi/substrate-erc721
