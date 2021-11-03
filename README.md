@@ -8,3 +8,6 @@ Awesome Archive of Assets on Substrate Framework
 
 ## DEX
 - https://github.com/alexxuyang/substrate-dex
+
+# Privacy
+- https://github.com/LayerXcom/zero-chain
