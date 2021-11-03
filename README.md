@@ -3,6 +3,7 @@ Awesome Archive of Assets on Substrate Framework
 
 ## Consensus
 - https://github.com/gautamdhameja/substrate-validator-set 
+- https://github.com/ZentaChain/Zentanetwork
 - https://substrate.dev/docs/en/knowledgebase/advanced/consensus 
 - https://github.com/substrate-developer-hub/substrate-pallet-template 
 
