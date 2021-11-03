@@ -9,5 +9,8 @@ Awesome Archive of Assets on Substrate Framework
 ## DEX
 - https://github.com/alexxuyang/substrate-dex
 
-# Privacy
+## Privacy
 - https://github.com/LayerXcom/zero-chain
+
+## NFT
+- https://github.com/anjumkaiser/substrate-ink-erc721-smartcontract
